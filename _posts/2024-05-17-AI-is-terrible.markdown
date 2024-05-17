@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why do we believe the hype?"
+title:  "It's real, it's transformational, but we're all so over-rotated on AI"
 date:   2024-05-17 16:00:00 -0700
 categories: AI
 ---
