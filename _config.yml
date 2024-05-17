@@ -21,11 +21,12 @@
 title: Michael's Blog
 #email: michael@theroboticshub.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my personal blog where I write about robotics, programming, and other things that interest me.
+  This is my personal blog where I write about culture, innovation, robotics, programming, and other things that interest me.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
+twitter_username: michaelharries
 github_username:  michaelharries
+linkedin_username: michaelharries
 
 # Build settings
 theme: minima
