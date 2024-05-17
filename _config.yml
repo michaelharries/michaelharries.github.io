@@ -20,8 +20,7 @@
 
 title: Michael's Blog
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal blog with thoughts and exploration about culture, innovation, robotics, AI and 
-  miscellanea.
+  Culture, innovation, robotics, AI, and other miscellanea. Personal blog.
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
