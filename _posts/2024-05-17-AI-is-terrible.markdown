@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "We're all so over-rotated on AI"
+title:  "We're all over-rotated on AI"
 date:   2024-05-17 16:00:00 -0700
 categories: AI
 ---
 
 
-Why are we all so credulous when it comes to AI?
+Why are we so credulous when it comes to AI?
 
 Large Language Models/transformers are phenomenal, and excitement around these technologies is appropriate, but good grief, how much of the discussion seriously jumps the shark? 
 
