@@ -20,11 +20,11 @@ So what chance do we have at taking a cold-eyed, rational view of the realities 
 
 It's no wonder that so much of the discussion around these technologies trends to the breathless and fantastical.
 
-We need clarity of language around the realities of today's AI. The pragmatics, if you like. What does it actually do? Where strong and where weak? Where does it bring economic and social wins, where is it fragile, where should it be regulated, where not? What are the grounded, near term risks to our informational world?
+We need clarity of language around the realities of today's AI. The pragmatic view, if you like. What does it actually do? Where strong and where weak? Where does it bring economic and social wins, where is it fragile, where should it be regulated, where not? What are the grounded, near term risks to our informational world?
 
-The notion of pragmatics, of understanding the realities of emerging tech, what's real, what's stable, and what's likely to churn is core to what we do at [Robotics Hub](https://theroboticshub.com), and should be at the forefront for anyone looking to invest in advanced technologies/deep tech, especially in fast evolving fields like AI and Robotics.
+A deeply pragmatic approach is critical when faced with the realities of emerging tech, what's real, what's stable, what's defensible, what's likely to churn, and implications for the market. This is core to what we do at [Robotics Hub](https://theroboticshub.com), and should be step one for anyone investing in advanced technologies/deep tech, especially in fast evolving fields like AI and Robotics.
 
 __
 
-More generally, in situations with this level of hype driving a market, make sure to understand the incentives behind various claims. What's driving various commentators? What drives different positions in marketing? Who wins from a particular narrative? And who loses?
+One step towards unpacking hype is to understand the incentives behind various claims. What's driving each commentator? Who will win from a particular narrative? And who will lose?
 
