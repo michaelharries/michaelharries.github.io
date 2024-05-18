@@ -2,15 +2,15 @@
 layout: post
 title:  "We're credulous fools about AI"
 date:   2024-05-17 16:00:00 -0700
-categories: [AI, robotics, biases, pragmatic]s
+categories: [AI, robotics, biases, pragmatics]
 ---
 
+![Danish electical plug looks like a face](/assets/Danish_electical_plug.jpg)
 
 
+Large Language Models/transformers are phenomenal, and excitement around these technologies is appropriate, but good grief, how much of the discussion jumps the shark?
 
-Large Language Models/transformers are phenomenal, and excitement around these technologies is appropriate, but good grief, how much of the discussion jumps the shark? 
-
-Why so credulous when it comes to AI? We seem especially willing to believe all sorts of outrageous claims. 
+Why so credulous when it comes to AI? We seem to welcome all and any spurious claim. 
 
 In part we're led astray by our cognitive biases, the shortcuts we use to understand the world. The most relevant of these for our enthusiasm for AI is our love of anthropomorphization.
 
