@@ -5,7 +5,7 @@ date:   2024-05-17 16:00:00 -0700
 categories: [AI, robotics, biases, pragmatic]s
 ---
 
-![Danish electical plug looks like a face](</assets/Danish_electical_plug.jpg> "Danish electical plug")
+![Danish electical plug looks like a face](/assets/Danish_electical_plug.jpg)
 
 
 Large Language Models/transformers are phenomenal, and excitement around these technologies is appropriate, but good grief, how much of the discussion jumps the shark? 
